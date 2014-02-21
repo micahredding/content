@@ -3,6 +3,6 @@ production:
   - name: "bricksco@bricksites.com"
     ssh_options:
     - "-p 2222"
-  deploy_to: "~/public_html/brickcaster.resources/micah/"
+  deploy_to: "~/public_html/brickcaster.resources/micah_test/"
   repository: "git@github.com:micahredding/content.git"
-  branch: "master"
+  branch: "test-content"
