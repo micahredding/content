@@ -14,7 +14,7 @@ Communion is the enacted formation of that love and that identity.
 
 ---
 
-[Related — Marriage as a Sacrament](/o_gzgpBnSXadqHMiJFnp4g)
+[Related — Marriage as a Sacrament](marriage-sacramental)
 [Related — Church of Christ & Eastern Orthodoxy](https://hackmd.io/gdeE4EmkSNWFNQLqcg2SbQ)
 
 ---
